@@ -26,6 +26,7 @@ these files are from my 5,25" floppy disks
 
 
 copyright by Andreas Schreiber (Herrsching, 21.12.1991)
+
 -------
 
                                  Geschwindigkeit = 23 Zeichen pro Minute!
