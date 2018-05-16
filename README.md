@@ -1,6 +1,15 @@
 # old-basic-stuff
 these files are from my 5,25" floppy disks
 
+used interpreter:
+
+GW-BASIC 2.02
+(C) Copyright Microsoft 1983,1984
+
+Compatibility Software GW-BASIC V2.02
+Copyright (c) 1984 by Phoenix Software Associates Ltd.
+Copyright (c) 1985 Commodore Electronics Ltd. All Rights Reserved.
+
 ---------
 -	MORSE.BAS                    //das Programm wurde damals zur Vorbereitung für das Amateurfunkzeugnis sowie u.a. bei der BW-Grundausbildung (Fernmelder) verwendet
 
